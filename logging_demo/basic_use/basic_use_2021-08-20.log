@@ -1,0 +1,2 @@
+{"level": "INFO", "time": "2021-08-20 14:42:03", "func_name": "__init__", "message": "init object"}
+{"level": "INFO", "time": "2021-08-20 14:42:03", "func_name": "__str__", "message": "call print"}
