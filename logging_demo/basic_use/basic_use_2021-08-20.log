@@ -1,2 +1,6 @@
-{"level": "INFO", "time": "2021-08-20 14:42:03", "func_name": "__init__", "message": "init object"}
-{"level": "INFO", "time": "2021-08-20 14:42:03", "func_name": "__str__", "message": "call print"}
+{"level": "INFO", "time": "2021-08-20 16:08:09", "funcname": "__init__", "message": "init object", "line_no": "25", "logger_name": "root"}
+{"level": "INFO", "time": "2021-08-20 16:08:09", "funcname": "__str__", "message": "call print", "line_no": "30", "logger_name": "root"}
+{"level": "ERROR", "time": "2021-08-20 16:08:09", "funcname": "avail", "message": "not int", "line_no": "35", "logger_name": "root"}
+NoneType: None
+{"level": "ERROR", "time": "2021-08-20 16:08:09", "funcname": "avail", "message": "is int", "line_no": "36", "logger_name": "root"}
+NoneType: None

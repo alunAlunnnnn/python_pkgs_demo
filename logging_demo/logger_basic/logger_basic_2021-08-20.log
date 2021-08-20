@@ -1,0 +1,7 @@
+INFO - init object
+INFO - call print
+ERROR - not int
+Traceback (most recent call last):
+  File "D:\codes\python_pkgs_demo\logging_demo\logger_basic\logger_basic.py", line 38, in avail
+    num = int(num)
+ValueError: invalid literal for int() with base 10: 'a'
